@@ -1,0 +1,19 @@
+{
+  "name": "url_shortener",
+  "version": "0.0.0",
+  "description": "personal url shortener server",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.3.4",
+    "levelup": "~0.10.0",
+    "ejs": "~0.8.4",
+    "leveldown": "~0.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "peluche",
+  "license": "BSD"
+}
